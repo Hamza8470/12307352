@@ -627,7 +627,7 @@ This project is submitted as part of the Affordmed Evaluation Program.
 
 ## 🎯 Key Points for Evaluation
 
-1. **Logging Middleware** ⭐ (MAIN CRITERIA)
+1. **Logging Middleware**
    - Reusable logger function
    - Proper integration with Affordmed API
    - Comprehensive event logging
@@ -656,4 +656,3 @@ This project is submitted as part of the Affordmed Evaluation Program.
 ---
 
 **Last Updated:** May 14, 2024
-**Status:** Ready for Submission ✓
